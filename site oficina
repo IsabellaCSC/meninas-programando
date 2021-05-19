@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Meninas em TI</title>
+  <meta charset="utf-8">
+  <link rel="stylesheet" type="text/css" href="estilo.css">
+</head>
+<body>
+  <!--inicio cabeçalho-->
+    <div id="area-cabecalho">
+    <!--inicio área logo-->
+    <div id="area-logo">
+      <h1>Tech<span id="cor-logo">Girls</span></h1>
+    </div>      
+      <!--inicio área menu-->
+    <div id="area-menu">
+         <a href="index.html">Home</a>
+         <a href="galeria.html">Galeria</a>
+         <a href="quem_somos.html">Sobre Nós</a>
+    </div>
+    </div>
+    <div id="area-principal">
+        <!--início da postagem-->
+    <div id="area-postagem">
+          <!--Postagem 1-->
+    <div class="postagem">
+             <h2>As mulheres estão dominando a TI</h2>
+                         <span class="data-postagem">04 de maio de 2021</span>
+                         <img src="imagens/img.png" width="620px">
+                       <p>Lugar de mulher é onde ela quiser, inclusive, na indústria da tecnologia. Seja programando, desenvolvendo produtos ou criando inovações, elas sempre estiveram por aí, por mais que nem sempre sejam reconhecidas por seus feitos.</p>
+                       <p>O segmento de Tecnologia da Informação tem como uma de suas características a presença majoritária de profissionais do sexo masculino. Contudo, essa realidade está mudando aos poucos conforme o aumento da ocupação de cargos de destaque por mulheres na tecnologia.</p>
+                       <p>Além disso, mesmo com o preconceito e a desigualdade salarial, as mulheres estão cada vez mais dispostas a trabalhar no setor de TI. De acordo com o estudo Women in Tech 2018, as estudantes apresentam atualmente 33% mais interesse em fazer o curso de Ciência da Computação se compararmos com as que nasceram até a metade dos anos 80 do século passado.</p>
+                   </div> <!--fim da postagem-->            
+               <div class="postagem">
+                  <h2>Inclusão feminina na tecnologia</h2>
+                  <span class="data-postagem">04 de maio de 2021</span>
+                         <img src="imagens/img2.png" width="620px">
+                       <p> Numa pesquisa rápida é possível encontrar diversas mulheres que se destacaram por suas invenções e pesquisas. Então, por que o número de mulheres no mercado de tecnologia ainda é baixo? A questão de gênero é uma das respostas. Há na cultura da sociedade o estereótipo de que mulheres têm mais habilidade para cuidar de pessoas. Mas a história prova o contrário.</p>
+                       <p>
+                         Dorothy Vaughan, que contribuiu com a chegada do homem à lua ou Mae Jemison, primeira mulher negra a ir ao espaço contribuem para desconstruir este mito. Junto delas, personalidades como Hedy Lamarr, criadora da tecnologia precursora ao do Wi-fi  e Nettie Stevens que descobriu os cromossomos XY. Todas estas mulheres inspiraram e abriram caminho para que outras pudessem acreditar que a transformação da ciência e da tecnologia também é feminina.
+                       </p>
+                     </div> 
+                    <div class="postagem">
+                  <h2>A mudança é nossa responsabilidade</h2>
+                  <span class="data-postagem">04 de maio de 2021</span>
+                         <img src="imagens/img6.png" width="620px">
+                       <p> Hoje, trabalhamos para elevar o número de mulheres em nossos escritórios pelo mundo inteiro. Ainda é um longo caminho a percorrer. Nosso objetivo é aumentar a igualdade de gênero e trazer mais mulheres para a VTEX. Sabemos que este desafio é nossa obrigação e temos trabalhado junto ao nosso time de People para recrutar cada vez mais mulheres em nossos processos seletivos, de estagiárias até líderes de times.</p>
+                       <p>
+                         Incentivar meninas desde novas é um grande passo para a mudança a longo prazo e fator primordial para diminuir a desigualdade de gênero no mercado. Desta forma, também aumenta-se a diversidade dentro das equipes, formando times diversificados que entregam soluções muito mais completas.
+                       </p>
+                       <p>
+                         A história é escrita por mulheres. A tecnologia também é feita por mulheres. Equidade nas oportunidades é transformar, trazer mudança. Nós acreditamos que quando uma mulher se movimenta, toda sociedade evolui junto com ela.
+                       </p>
+                     </div> <!--fim da area posta-->
+                     <div class="postagem">
+                  <h2>O desafio das mulheres na tecnologia.</h2>
+                  <span class="data-postagem">04 de maio de 2021</span>
+                         <img src="imagens/img4.png" width="620px">
+                       <p>O papel da mulher, no mercado profissional feminino, tem sido sujeito a algumas limitações e tem sofrido dificuldades quanto ao seu acesso a cargos que exigem maior qualificação técnica ou que oferecem maiores possibilidades de elevação na carreira.</p>
+                       <p>
+                         Um estudo recente divulgado pela associação americana de TI Computing Technology Industry Association (CompTIA), mostra que apenas 24% dos postos de trabalhos em empresas de tecnologia em todo o mundo são ocupados por mulheres. No Brasil, apesar de serem maioria no ensino superior, as mulheres representam apenas 20% dos alunos nos cursos relacionados à computação, onde o restante dos 80% dos alunos são homens e apenas 8% dos cargos de liderança nos segmentos são ocupados por profissionais do sexo feminino.
+                       </p>
+                       <p>
+                         Como estudante da área de exatas, pude viver de perto o quanto as meninas são pouco estimuladas a estudar matemática, ciência e tecnologia nas escolas.  Essa falta de incentivo nas escolas e muitas vezes pela própria sociedade, são alguns dos fatores que contribuem para a pouca participação feminina neste setor.
+                       </p>
+                       <p>
+                         Consumimos a tecnologia, mas muitas de nós não participamos dela. Não podemos deixar essa realidade continuar representando uma baixa estatística da mulher no mercado profissional da tecnologia.
+                       </p>
+                     </div> <!--fim da area posta-->
+                       <div class="postagem">
+                  <h2>Programas incentivadores da mulher no mundo da tecnologia</h2>
+                  <span class="data-postagem">04 de maio de 2021</span>
+                         <img src="imagens/img5.jpg" width="620px">
+                       <p>Programaria: ONG superbacana que oferece capacitação para mulheres nos ramos de programação.</p>
+                       <p>
+                         Polignu: Outro grupo atuante na questão de gênero é o PoliGen da Universidade de São Paulo, que discute questões de gênero e promove também o hackathon que é uma competição com pessoas de diversas áreas para propor uma solução para determinado problema, muitas vezes o resultado desse trabalho pode ser codificado em forma de aplicativo.
+                       </p>
+                       <p>
+                         Minas TI: Minas da TI é um grupo formado por mulheres que atuam na área de tecnologia da informação ou que atuam em outras áreas e possuem interesse por tecnologia. Temos os objetivos de empoderar mulheres e promover a troca de conhecimento. Utilizamos a tecnologia como ferramenta para atingirmos tais objetivos. Atualmente o grupo é exclusivo para mulheres.
+                       </p>
+                       <p>
+                         Grupo Mulheres na Tecnologia: Esse grupo mantém um site para a divulgação de notícias e organiza um encontro anual com mulheres ministrando palestras técnicas e não técnicas. Esse tipo de evento é importante para manter a visibilidade feminina na tecnologia, mostrando que existem profissionais qualificadas desempenhando papéis relevantes na área.
+                       </p>
+                     </div> <!--fim da area posta-->
+                </div><!-- fim da postagem-->
+        <!--INÍCIO DA AREA LATERAL-->
+      <div id="area-lateral">
+          <h3>Postagens recentes</h3>
+        <div class="postagem-lateral">
+          <h4>Mulheres dominando a TI?</h4>
+          <p>
+            Lugar de mulher é onde ela quiser, inclusive, na indústria da tecnologia.
+          </p>
+        </div>
+        <div class="postagem-lateral">
+          <h4>Existem poucas mulheres em TI?</h4>
+          <p>
+            O principal problema para ingressar as mulheres na TI é uma questão cultural. 
+          </p>
+        </div>
+        <div class="postagem-lateral">
+          <h4>Por que isso acontece?</h4>
+          <p>Acho que as mulheres acreditam que essa é uma profissão pouco feminina e, por isso, ficam com receio.</p> 
+          <img src="imagens/img3.png" width="225px">
+        </div>
+        <div class="conteudo-lateral">
+          <h3>Temas</h3>
+        <div id="menu-lateral"> 
+                <a href="index.html">Home</a><br> 
+                <a href="galeria.html">Galeria</a><br>
+                <a href="quem_somos.html">Quem somos</a><br>
+        </div>  
+        </div>
+      </div>
+        <div id="area-rodape">
+          &copy;Todos os direitos reservados
+        </div>
+      </div><!--fim da area principal-->
+</body>
+</html>
